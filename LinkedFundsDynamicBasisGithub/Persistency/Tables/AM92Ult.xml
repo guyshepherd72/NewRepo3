@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>AM92Ult</Name>
+  <Parent>Mortality</Parent>
+  <Previous />
+  <LastModifiedBy>Guy</LastModifiedBy>
+  <LastModifiedOn>2021-12-16T15:44:42.0751563+00:00</LastModifiedOn>
+  <CreatedBy>Guy</CreatedBy>
+  <CreatedOn>2021-12-16T15:44:42.0751563+00:00</CreatedOn>
+  <Key>AM92Ult</Key>
+  <Folder>false</Folder>
+  <LastModified>2021-12-16T15:44:42.0751563+00:00</LastModified>
+  <Notes />
+  <IsExpanded>true</IsExpanded>
+  <IsProjectTable>true</IsProjectTable>
+  <IsDataSource>false</IsDataSource>
+  <IsODBCSource>false</IsODBCSource>
+  <IsDatFileSource>false</IsDatFileSource>
+  <IsDatabaseConnection>false</IsDatabaseConnection>
+  <FilePath>Tables\AM92Ult.txt</FilePath>
+  <FileName />
+  <Reference />
+  <Delimiter>	</Delimiter>
+  <Internal>false</Internal>
+  <LookUpType>Row</LookUpType>
+  <BasisTable>false</BasisTable>
+  <LookUpVars />
+  <IndexCols>1</IndexCols>
+  <DoubleType>true</DoubleType>
+  <Rows>1</Rows>
+  <Cols>1</Cols>
+  <ColWidths>55;95</ColWidths>
+  <HasHeadings>true</HasHeadings>
+  <RunControlTable>false</RunControlTable>
+</Table>

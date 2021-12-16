@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Basis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Linked</Name>
+  <Parent />
+  <Previous />
+  <LastModifiedBy>Guy</LastModifiedBy>
+  <LastModifiedOn>2021-12-16T15:44:42.0751563+00:00</LastModifiedOn>
+  <CreatedBy>Guy</CreatedBy>
+  <CreatedOn>2021-12-16T15:44:42.0751563+00:00</CreatedOn>
+  <Folder>false</Folder>
+  <LastModified>2021-12-16T15:44:42.0751563+00:00</LastModified>
+  <Notes />
+  <IsExpanded>true</IsExpanded>
+  <Model>Linked</Model>
+  <ProjectScope>false</ProjectScope>
+  <Inherit>false</Inherit>
+  <InheritsFrom />
+  <BasisItems />
+  <ProjectLevelBasisItems />
+</Basis>

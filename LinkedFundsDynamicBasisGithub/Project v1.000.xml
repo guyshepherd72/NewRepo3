@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>LinkedFundsDynamicBasisGithub</Name>
+  <LastModifiedBy>Guy</LastModifiedBy>
+  <LastModifiedOn xsi:nil="true" />
+  <CreatedOn xsi:nil="true" />
+  <Folder>false</Folder>
+  <LastModified>2021-12-15T15:46:27.5817204+00:00</LastModified>
+  <Notes />
+  <IsExpanded>true</IsExpanded>
+  <CreateDate>2021-12-15T08:12:06.2334159+00:00</CreateDate>
+  <UserId>Guy</UserId>
+  <AppVersion>6000</AppVersion>
+  <VersionNo>1.000</VersionNo>
+  <CompanyName>Software Alliance Limited</CompanyName>
+  <Logo>C:\Users\guy\Documents\Mo.net Projects\LinkedFundsDynamicBasisGithub\Logo\SAL.png</Logo>
+  <Documentation>C:\Users\guy\Documents\Mo.net Projects\LinkedFundsDynamicBasisGithub\Documentation\Mo.net_Sample_Projects_LinkedFundsDynamicBasis_Model_v1.00_User_Guide_v1.pdf</Documentation>
+  <DocumentationBackedUp>true</DocumentationBackedUp>
+  <CommitDate>0001-01-01T00:00:00</CommitDate>
+  <References />
+  <ExternalSourceControl>true</ExternalSourceControl>
+  <DisableLastModified>true</DisableLastModified>
+  <RevisionIds />
+  <OpenAsReadOnly>false</OpenAsReadOnly>
+</Project>

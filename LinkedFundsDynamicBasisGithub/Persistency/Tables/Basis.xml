@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Basis</Name>
+  <Parent />
+  <Previous />
+  <LastModifiedBy>Guy</LastModifiedBy>
+  <LastModifiedOn>2021-12-16T15:44:42.0751563+00:00</LastModifiedOn>
+  <CreatedBy>Guy</CreatedBy>
+  <CreatedOn>2021-12-16T15:44:42.0751563+00:00</CreatedOn>
+  <Folder>true</Folder>
+  <LastModified>2021-12-16T15:44:42.0751563+00:00</LastModified>
+  <Notes />
+  <IsExpanded>true</IsExpanded>
+  <IsProjectTable>true</IsProjectTable>
+  <IsDataSource>false</IsDataSource>
+  <IsODBCSource>false</IsODBCSource>
+  <IsDatFileSource>false</IsDatFileSource>
+  <IsDatabaseConnection>false</IsDatabaseConnection>
+  <FilePath />
+  <Reference />
+  <Delimiter>	</Delimiter>
+  <Internal>false</Internal>
+  <LookUpType>Row</LookUpType>
+  <BasisTable>false</BasisTable>
+  <IndexCols>1</IndexCols>
+  <DoubleType>true</DoubleType>
+  <Rows>1</Rows>
+  <Cols>1</Cols>
+  <HasHeadings>true</HasHeadings>
+  <RunControlTable>false</RunControlTable>
+</Table>
